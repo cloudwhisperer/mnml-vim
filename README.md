@@ -1,1 +1,1 @@
-Minimal VIM colorscheme
+Minimal colorscheme
