@@ -23,7 +23,7 @@ hi      MatchParen           cterm=bold            ctermfg=10    ctermbg=12
 hi      ModeMsg              cterm=bold            ctermfg=NONE
 hi      MoreMsg              cterm=bold            ctermfg=NONE
 hi      NonText              cterm=bold            ctermfg=NONE
-hi      PreProc              cterm=underline       ctermfg=NONE
+hi      PreProc              cterm=NONE            ctermfg=NONE
 hi      Question             cterm=standout        ctermfg=NONE
 hi      Search               cterm=reverse         ctermfg=NONE
 hi      Special              cterm=bold            ctermfg=NONE
