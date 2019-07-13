@@ -3,7 +3,7 @@ let g:colors_name = "mnml"
 if exists("syntax_on")
     syntax  reset
 endif
-hi      Comment              cterm=NONE            ctermfg=12
+hi      Comment              cterm=NONE            ctermfg=11
 hi      Constant             cterm=underline       ctermfg=NONE
 hi      CursorLineNr         cterm=bold            ctermfg=12
 hi      DiffAdd              cterm=bold            ctermfg=NONE
