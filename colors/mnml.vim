@@ -10,14 +10,14 @@ hi      DiffAdd              cterm=bold            ctermfg=NONE
 hi      DiffChange           cterm=bold            ctermfg=NONE
 hi      DiffDelete           cterm=bold            ctermfg=NONE
 hi      DiffText             cterm=reverse         ctermfg=NONE
-hi      Directory            cterm=bold            ctermfg=NONE
+hi      Directory            cterm=bold            ctermfg=5
 hi      Error                cterm=reverse         ctermfg=7     ctermbg=NONE
 hi      ErrorMsg             cterm=reverse         ctermfg=7     ctermbg=NONE
 hi      FoldColumn           cterm=standout        ctermfg=NONE
 hi      Folded               cterm=standout        ctermfg=NONE
 hi      Identifier           cterm=NONE       ctermfg=2
 hi      Ignore               cterm=bold            ctermfg=NONE
-hi      IncSearch            cterm=NONE         ctermfg=NONE ctermbg=5
+hi      IncSearch            cterm=NONE            ctermfg=0    ctermbg=3
 hi      LineNr               cterm=NONE            ctermfg=1
 hi      MatchParen           cterm=NONE         ctermfg=NONE ctermbg=5
 hi      ModeMsg              cterm=bold            ctermfg=NONE
@@ -25,7 +25,7 @@ hi      MoreMsg              cterm=bold            ctermfg=NONE
 hi      NonText              cterm=bold            ctermfg=NONE
 hi      PreProc              cterm=NONE            ctermfg=NONE
 hi      Question             cterm=standout        ctermfg=NONE
-hi      Search               cterm=NONE         ctermfg=NONE ctermbg=5
+hi      Search               cterm=NONE            ctermfg=0    ctermbg=3
 hi      Special              cterm=bold            ctermfg=NONE
 hi      SpecialKey           cterm=bold            ctermfg=NONE
 hi      Statement            cterm=bold            ctermfg=NONE
