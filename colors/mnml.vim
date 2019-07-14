@@ -4,15 +4,15 @@ if exists("syntax_on")
     syntax  reset
 endif
 hi      Comment              cterm=NONE            ctermfg=11
-hi      Constant             cterm=underline       ctermfg=NONE
+hi      Constant             cterm=bold       ctermfg=6
 hi      CursorLineNr         cterm=bold            ctermfg=12
 hi      DiffAdd              cterm=bold            ctermfg=NONE
 hi      DiffChange           cterm=bold            ctermfg=NONE
 hi      DiffDelete           cterm=bold            ctermfg=NONE
 hi      DiffText             cterm=reverse         ctermfg=NONE
 hi      Directory            cterm=bold            ctermfg=NONE
-hi      Error                cterm=reverse         ctermfg=9     ctermbg=15
-hi      ErrorMsg             cterm=reverse         ctermfg=9     ctermbg=15
+hi      Error                cterm=reverse         ctermfg=7     ctermbg=NONE
+hi      ErrorMsg             cterm=reverse         ctermfg=7     ctermbg=NONE
 hi      FoldColumn           cterm=standout        ctermfg=NONE
 hi      Folded               cterm=standout        ctermfg=NONE
 hi      Identifier           cterm=underline       ctermfg=NONE
@@ -43,6 +43,6 @@ hi      WarningMsg           cterm=standout        ctermfg=NONE
 hi      WildMenu             cterm=standout        ctermfg=NONE
 hi      ColorColumn          cterm=NONE            ctermfg=NONE  ctermbg=0
 " for highlighting stray spaces/tabs (requires match statements in vimrc)
-hi      ExtraWhitespace      cterm=reverse         ctermfg=185   ctermbg=NONE
+hi      ExtraWhitespace      cterm=reverse         ctermfg=8   ctermbg=NONE
 " mostly for nerdtree
-hi      VertSplit            cterm=bold            ctermfg=240   ctermbg=NONE
+hi      VertSplit            cterm=bold            ctermfg=9   ctermbg=NONE
