@@ -5,7 +5,7 @@ if exists("syntax_on")
 endif
 hi      Comment              cterm=NONE            ctermfg=11
 hi      Constant             cterm=bold       ctermfg=6
-hi      CursorLineNr         cterm=bold            ctermfg=12
+hi      CursorLineNr         cterm=reverse          ctermbg=NONE
 hi      DiffAdd              cterm=bold            ctermfg=NONE
 hi      DiffChange           cterm=bold            ctermfg=NONE
 hi      DiffDelete           cterm=bold            ctermfg=NONE
