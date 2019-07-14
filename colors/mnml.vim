@@ -17,15 +17,15 @@ hi      FoldColumn           cterm=standout        ctermfg=NONE
 hi      Folded               cterm=standout        ctermfg=NONE
 hi      Identifier           cterm=NONE       ctermfg=2
 hi      Ignore               cterm=bold            ctermfg=NONE
-hi      IncSearch            cterm=reverse         ctermfg=NONE
+hi      IncSearch            cterm=NONE         ctermfg=NONE ctermbg=5
 hi      LineNr               cterm=NONE            ctermfg=1
-hi      MatchParen           cterm=reverse         ctermfg=NONE
+hi      MatchParen           cterm=NONE         ctermfg=NONE ctermbg=5
 hi      ModeMsg              cterm=bold            ctermfg=NONE
 hi      MoreMsg              cterm=bold            ctermfg=NONE
 hi      NonText              cterm=bold            ctermfg=NONE
 hi      PreProc              cterm=NONE            ctermfg=NONE
 hi      Question             cterm=standout        ctermfg=NONE
-hi      Search               cterm=reverse         ctermfg=NONE
+hi      Search               cterm=NONE         ctermfg=NONE ctermbg=5
 hi      Special              cterm=bold            ctermfg=NONE
 hi      SpecialKey           cterm=bold            ctermfg=NONE
 hi      Statement            cterm=bold            ctermfg=NONE
