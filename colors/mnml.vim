@@ -15,7 +15,7 @@ hi      Error                cterm=reverse         ctermfg=7     ctermbg=NONE
 hi      ErrorMsg             cterm=reverse         ctermfg=7     ctermbg=NONE
 hi      FoldColumn           cterm=standout        ctermfg=NONE
 hi      Folded               cterm=standout        ctermfg=NONE
-hi      Identifier           cterm=underline       ctermfg=NONE
+hi      Identifier           cterm=NONE       ctermfg=2
 hi      Ignore               cterm=bold            ctermfg=NONE
 hi      IncSearch            cterm=reverse         ctermfg=NONE
 hi      LineNr               cterm=NONE            ctermfg=1
@@ -36,8 +36,8 @@ hi      Title                cterm=bold            ctermfg=NONE
 hi      Todo                 cterm=bold,standout   ctermfg=10    ctermbg=0
 hi      Type                 cterm=bold            ctermfg=NONE
 hi      Underlined           cterm=underline       ctermfg=NONE
-hi      VertSplit            cterm=bold            ctermfg=0   ctermbg=3
-hi      Visual               cterm=reverse         ctermfg=NONE
+hi      VertSplit            cterm=bold            ctermfg=0    ctermbg=3
+hi      Visual               cterm=NONE            ctermfg=0    ctermbg=3
 hi      VisualNOS            cterm=bold,underline  ctermfg=NONE
 hi      WarningMsg           cterm=standout        ctermfg=NONE
 hi      WildMenu             cterm=standout        ctermfg=NONE
